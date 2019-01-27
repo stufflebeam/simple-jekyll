@@ -1,3 +1,9 @@
+# A Simple Jekyll Site
+
+This is a simple Jekyll site that we're putting together to test out GitHub Pages. It's quite easy to use and quick to set up.
+
+This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. This is some additional text. It is *very* interesting to read. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/stufflebeam/simple-jekyll/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
