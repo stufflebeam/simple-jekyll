@@ -1,3 +1,4 @@
 name: A Fantastic Jekyll Test Site
 markdown: kramdown
 theme: jekyll-theme-midnight
+permalink: /blog/:year/:month/:day/:title
